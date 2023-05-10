@@ -4,9 +4,9 @@ Email-Automation is a Robotic Process Automation (RPA) project aimed at automati
 Features
 The Email-Automation project supports the following email activities:
 
-Sending emails
-Receiving emails
-Forwarding emails
-Deleting  emails
-Searching and filtring emails
-Changing email location
+- Sending emails
+- Receiving emails
+- Forwarding emails
+- Deleting  emails
+- Searching and filtring emails
+- Changing email location
